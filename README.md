@@ -12,8 +12,8 @@ This repository contains my **Python solutions** to the **Top 150 LeetCode inter
 Finish all 150 problems and document learning notes for each problem.
 
 # File Structures
-Each file will be in the form "python/number/name"
-
+Each file will be in the form "python/number-name"
+The number is based on the leetcode question number.
 ---
 
 *Made by Sreya Merin Sam — BCA Student | Coding Club & Ignite Coordinator*
