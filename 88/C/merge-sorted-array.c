@@ -1,7 +1,6 @@
 //merge sorted array 
 //difficulty: easy
 //language : C
-          
 void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
     int i, a = m + n, j = 0, temp, flag;
     for (i = m; i < a; i++) {
