@@ -5,7 +5,7 @@ My Solutions to Top 150 Leetcode Interview Questions
 This repository contains my **Python solutions** to the **Top 150 LeetCode interview questions**.
 
 # Progress
-- Completed: 20 / 150
+- Completed: 29 / 150
 - Language: Python
   
 # Goal
